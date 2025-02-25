@@ -14,7 +14,7 @@ pip install selenium
 
 Selenium es una biblioteca que permite automatizar navegadores web para la extracción de datos y pruebas automatizadas.
 
-2. Instalar TextBlob (Opcional)
+2. Instalar TextBlob 
 
 pip install textblob
 
